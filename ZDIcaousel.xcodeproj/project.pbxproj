@@ -8,22 +8,40 @@
 
 /* Begin PBXBuildFile section */
 		F42915FE209B64730023FD38 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F42915FD209B64730023FD38 /* AppDelegate.swift */; };
-		F4291600209B64730023FD38 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F42915FF209B64730023FD38 /* ViewController.swift */; };
-		F4291603209B64730023FD38 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4291601209B64730023FD38 /* Main.storyboard */; };
 		F4291606209B64730023FD38 /* ZDIcaousel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F4291604209B64730023FD38 /* ZDIcaousel.xcdatamodeld */; };
 		F4291608209B64730023FD38 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4291607209B64730023FD38 /* Assets.xcassets */; };
 		F429160B209B64730023FD38 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4291609209B64730023FD38 /* LaunchScreen.storyboard */; };
+		F429161B209C01950023FD38 /* IMG_0825.JPG in Resources */ = {isa = PBXBuildFile; fileRef = F4291613209C01950023FD38 /* IMG_0825.JPG */; };
+		F429161C209C01950023FD38 /* IMG_0826.JPG in Resources */ = {isa = PBXBuildFile; fileRef = F4291614209C01950023FD38 /* IMG_0826.JPG */; };
+		F429161D209C01950023FD38 /* IMG_0827.JPG in Resources */ = {isa = PBXBuildFile; fileRef = F4291615209C01950023FD38 /* IMG_0827.JPG */; };
+		F429161E209C01950023FD38 /* IMG_0828.JPG in Resources */ = {isa = PBXBuildFile; fileRef = F4291616209C01950023FD38 /* IMG_0828.JPG */; };
+		F429161F209C01950023FD38 /* IMG_0829.JPG in Resources */ = {isa = PBXBuildFile; fileRef = F4291617209C01950023FD38 /* IMG_0829.JPG */; };
+		F4291620209C01950023FD38 /* IMG_0830.JPG in Resources */ = {isa = PBXBuildFile; fileRef = F4291618209C01950023FD38 /* IMG_0830.JPG */; };
+		F4291622209C01950023FD38 /* IMG_0831.JPG in Resources */ = {isa = PBXBuildFile; fileRef = F429161A209C01950023FD38 /* IMG_0831.JPG */; };
+		F4291624209C052C0023FD38 /* ZDRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4291623209C052C0023FD38 /* ZDRootViewController.swift */; };
+		F4291627209C06130023FD38 /* ZDBaseNavController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4291626209C06130023FD38 /* ZDBaseNavController.swift */; };
+		F4291629209C06750023FD38 /* ZDBaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4291628209C06750023FD38 /* ZDBaseViewController.swift */; };
+		F429162B209C06D40023FD38 /* ZDBaseWindowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F429162A209C06D40023FD38 /* ZDBaseWindowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		F42915FA209B64730023FD38 /* ZDIcaousel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZDIcaousel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F42915FD209B64730023FD38 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F42915FF209B64730023FD38 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		F4291602209B64730023FD38 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F4291605209B64730023FD38 /* ZDIcaousel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ZDIcaousel.xcdatamodel; sourceTree = "<group>"; };
 		F4291607209B64730023FD38 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F429160A209B64730023FD38 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F429160C209B64730023FD38 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F4291613209C01950023FD38 /* IMG_0825.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0825.JPG; sourceTree = "<group>"; };
+		F4291614209C01950023FD38 /* IMG_0826.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0826.JPG; sourceTree = "<group>"; };
+		F4291615209C01950023FD38 /* IMG_0827.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0827.JPG; sourceTree = "<group>"; };
+		F4291616209C01950023FD38 /* IMG_0828.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0828.JPG; sourceTree = "<group>"; };
+		F4291617209C01950023FD38 /* IMG_0829.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0829.JPG; sourceTree = "<group>"; };
+		F4291618209C01950023FD38 /* IMG_0830.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0830.JPG; sourceTree = "<group>"; };
+		F429161A209C01950023FD38 /* IMG_0831.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0831.JPG; sourceTree = "<group>"; };
+		F4291623209C052C0023FD38 /* ZDRootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZDRootViewController.swift; sourceTree = "<group>"; };
+		F4291626209C06130023FD38 /* ZDBaseNavController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZDBaseNavController.swift; sourceTree = "<group>"; };
+		F4291628209C06750023FD38 /* ZDBaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZDBaseViewController.swift; sourceTree = "<group>"; };
+		F429162A209C06D40023FD38 /* ZDBaseWindowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZDBaseWindowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +74,40 @@
 		F42915FC209B64730023FD38 /* ZDIcaousel */ = {
 			isa = PBXGroup;
 			children = (
-				F42915FD209B64730023FD38 /* AppDelegate.swift */,
-				F42915FF209B64730023FD38 /* ViewController.swift */,
-				F4291601209B64730023FD38 /* Main.storyboard */,
+				F4291625209C05400023FD38 /* base */,
+				F4291612209C01950023FD38 /* photo */,
 				F4291607209B64730023FD38 /* Assets.xcassets */,
 				F4291609209B64730023FD38 /* LaunchScreen.storyboard */,
 				F429160C209B64730023FD38 /* Info.plist */,
 				F4291604209B64730023FD38 /* ZDIcaousel.xcdatamodeld */,
 			);
 			path = ZDIcaousel;
+			sourceTree = "<group>";
+		};
+		F4291612209C01950023FD38 /* photo */ = {
+			isa = PBXGroup;
+			children = (
+				F4291613209C01950023FD38 /* IMG_0825.JPG */,
+				F4291614209C01950023FD38 /* IMG_0826.JPG */,
+				F4291615209C01950023FD38 /* IMG_0827.JPG */,
+				F4291616209C01950023FD38 /* IMG_0828.JPG */,
+				F4291617209C01950023FD38 /* IMG_0829.JPG */,
+				F4291618209C01950023FD38 /* IMG_0830.JPG */,
+				F429161A209C01950023FD38 /* IMG_0831.JPG */,
+			);
+			path = photo;
+			sourceTree = "<group>";
+		};
+		F4291625209C05400023FD38 /* base */ = {
+			isa = PBXGroup;
+			children = (
+				F42915FD209B64730023FD38 /* AppDelegate.swift */,
+				F4291623209C052C0023FD38 /* ZDRootViewController.swift */,
+				F4291626209C06130023FD38 /* ZDBaseNavController.swift */,
+				F4291628209C06750023FD38 /* ZDBaseViewController.swift */,
+				F429162A209C06D40023FD38 /* ZDBaseWindowView.swift */,
+			);
+			path = base;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,9 +169,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4291620209C01950023FD38 /* IMG_0830.JPG in Resources */,
+				F429161E209C01950023FD38 /* IMG_0828.JPG in Resources */,
+				F429161D209C01950023FD38 /* IMG_0827.JPG in Resources */,
+				F429161F209C01950023FD38 /* IMG_0829.JPG in Resources */,
 				F429160B209B64730023FD38 /* LaunchScreen.storyboard in Resources */,
+				F4291622209C01950023FD38 /* IMG_0831.JPG in Resources */,
 				F4291608209B64730023FD38 /* Assets.xcassets in Resources */,
-				F4291603209B64730023FD38 /* Main.storyboard in Resources */,
+				F429161B209C01950023FD38 /* IMG_0825.JPG in Resources */,
+				F429161C209C01950023FD38 /* IMG_0826.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,8 +188,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F4291600209B64730023FD38 /* ViewController.swift in Sources */,
+				F4291629209C06750023FD38 /* ZDBaseViewController.swift in Sources */,
+				F429162B209C06D40023FD38 /* ZDBaseWindowView.swift in Sources */,
+				F4291624209C052C0023FD38 /* ZDRootViewController.swift in Sources */,
 				F42915FE209B64730023FD38 /* AppDelegate.swift in Sources */,
+				F4291627209C06130023FD38 /* ZDBaseNavController.swift in Sources */,
 				F4291606209B64730023FD38 /* ZDIcaousel.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -148,14 +200,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		F4291601209B64730023FD38 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				F4291602209B64730023FD38 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		F4291609209B64730023FD38 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
