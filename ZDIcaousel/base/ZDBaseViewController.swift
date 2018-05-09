@@ -8,6 +8,12 @@
 
 import UIKit
 
+/// 当前屏幕宽度
+let SCREEN_WIDTH: CGFloat = UIScreen.main.bounds.size.width
+
+/// 当前屏幕高度
+let SCRENN_HEIGHT: CGFloat = UIScreen.main.bounds.size.height
+
 class ZDBaseViewController: UIViewController{
     override func viewDidLoad() {
         super.viewDidLoad()
