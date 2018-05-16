@@ -20,7 +20,12 @@ class ZDIcaouselView: UIView{
 
     //
     // 我是mater
+
     // billy又添加了
+
+    
+    /// 我有添加了
+
     
     override init(frame: CGRect) {
         super.init(frame: frame)
