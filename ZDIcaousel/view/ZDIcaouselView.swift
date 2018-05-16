@@ -14,6 +14,7 @@ class ZDIcaouselView: UIView{
 //    private lazy var collectView: UICollectionView = {
 //
 //    }()
+    //
     
     override init(frame: CGRect) {
         super.init(frame: frame)
