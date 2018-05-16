@@ -17,7 +17,6 @@ class ZDIcaouselView: UIView{
 
     /**我是billy*/
 
-
     //
     // 我是mater
 
@@ -25,6 +24,7 @@ class ZDIcaouselView: UIView{
 
     
     /// 我有添加了
+    /// billy
 
     
     override init(frame: CGRect) {
