@@ -21,7 +21,7 @@ class ZDIcaouselView: UIView{
     //
     // 我是mater
     
-    /// 我有添加了git
+    /// 我有添加了
 
     
     override init(frame: CGRect) {
