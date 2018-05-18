@@ -15,6 +15,7 @@ class ZDIcaouselView: UIView{
 //
 //    }()
 
+
     /**我是billy*/
 
     //
@@ -25,6 +26,9 @@ class ZDIcaouselView: UIView{
     
     /// 我有添加了
     /// billy
+
+    // 测试
+
 
     
     override init(frame: CGRect) {
