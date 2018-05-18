@@ -30,12 +30,12 @@ class ZDIcaouselView: UIView{
     // 测试\
     
     /// 回家测试
-    
 
 
     
     override init(frame: CGRect) {
         super.init(frame: frame)
+        self.backgroundColor = UIColor.black
     }
     
     required init?(coder aDecoder: NSCoder) {
