@@ -14,14 +14,40 @@ class ZDIcaouselView: UIView{
 //    private lazy var collectView: UICollectionView = {
 //
 //    }()
+<<<<<<< HEAD
     // 测试
+=======
+
+
+    /**我是billy*/
+
+    //
+    // 我是mater
+
+    // billy又添加了
+
+    
+    /// 我有添加了
+    /// billy
+
+    // 测试\
+    
+    /// 回家测试
+    ////////
+    /////
+    ////
+
+
+>>>>>>> Billy
 
     
     override init(frame: CGRect) {
         super.init(frame: frame)
+        self.backgroundColor = UIColor.black
     }
     
     required init?(coder aDecoder: NSCoder) {
         fatalError("init(coder:) has not been implemented")
     }
+    // Billy 修改
 }
